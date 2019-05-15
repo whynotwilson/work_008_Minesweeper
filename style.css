@@ -1,0 +1,25 @@
+.main {
+    width: 600px;
+    background: #eee;
+    margin: 10px auto;
+}
+
+    .main #landmine {
+        
+    }
+
+    .main #operation {
+        width: 180px;
+    }
+
+        #operation .tip {
+            margin: 10px auto;
+        }
+
+        .red {
+            color: red;
+        }
+        
+        fieldset {
+            margin: 10px auto;
+        }
